@@ -34,3 +34,8 @@ cd code-challenge-1
 Author
 
 Abdihakim Ali
+
+
+License
+
+MIT license
