@@ -12,8 +12,8 @@ This is a simple program used to give measurements of the ingredients to cook te
 
 How it works:
 Prompts the user to enter the number of chai cups they want to make (e.g., using prompt()). Remember to convert the input to a number.
-Takes the numberOfCups (as a number) as an argument.
-Calculates the required amount for each ingredient (water, milk, tea leaves, sugar) based on the numberOfCups.
+Takes the numberofcups (as a number) as an argument.
+Calculates the required amount for each ingredient (water, milk, tea leaves, sugar) based on the numberofcups.
 Prints the results to the console in a clear, readable format.
 
 MobileMoneyEstimator:
@@ -21,14 +21,16 @@ This is a money transfer program that is used to calculate the  transaction cost
 
 How it works:
 Prompts the user to enter the amount of money they wish to send. Convert this input to a number.
-Takes the amountToSend (as a number) as an argument.
+Takes the amounttoSend (as a number) as an argument.
 Calculates the transaction fee based on the 1.5% rule, ensuring it adheres to the minimum (KES 10) and maximum (KES 70) fee limit
 Calculates the total amount that will be debited (amount to send + transaction fee).
 Prints the results to the console.
 
 Setup
+
 clone this into your repository 
 cd code-challenge-1
 
 Author
+
 Abdihakim Ali
